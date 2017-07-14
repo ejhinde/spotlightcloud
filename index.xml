@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Spotlight Cloud</title>
     <link>https://ejhinde.github.io/spotlightcloud/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Spotlight Cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
@@ -12,12 +12,418 @@
     
     
     <item>
+      <title>Alarm Details</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/alarm_details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/alarm_details/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Change Tracking</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/change_tracking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/change_tracking/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/database/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/database/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Heatmap</title>
+      <link>https://ejhinde.github.io/spotlightcloud/global/heatmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/global/heatmap/</guid>
+      <description>Open the Heatmap From the Spotlight Client, click {% include inline_imageClient.html file=&amp;ldquo;tb_alarms_heatmap.png&amp;rdquo; alt=&amp;ldquo;Heatmap&amp;rdquo; %} Monitor | Heat Map to open the Heat Map showing all monitored connections.
+Tip : You can open the Heatmap with a subset of all monitored connections. From the left [Connections pane][enterprise_connect_display] click on a custom view or connection type. The Heat Map is the default view on the display pane. Connection color and surface area The Heat Map display organizes connections based on the comparative number and severity of alarms raised against them.</description>
+    </item>
+    
+    <item>
+      <title>Instance / Dim</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/instance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/instance/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/overview/</guid>
+      <description>Overview Page - Windows host of SQL Server</description>
+    </item>
+    
+    <item>
+      <title>Overview Page</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/overview/</guid>
+      <description>Overview Page - Monitored SQL Server</description>
+    </item>
+    
+    <item>
+      <title>Alarms</title>
+      <link>https://ejhinde.github.io/spotlightcloud/global/alarms/</link>
+      <pubDate>Mon, 10 Jul 2017 16:49:42 +1000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/global/alarms/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Blocking</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/blocking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/blocking/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Blocking History</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/blocking_history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/blocking_history/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>CPUs</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/cpus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/cpus/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Files</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/files/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Performance Health</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancehealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancehealth/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/services/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/tags/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>TempDB</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/tempdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/tempdb/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Alarms</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/alarms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/alarms/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Health Check</title>
+      <link>https://ejhinde.github.io/spotlightcloud/global/healthcheck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/global/healthcheck/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/jobs/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>KPI MAX</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/kpi_max/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/kpi_max/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Processes</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/processes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/processes/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Tables</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/tables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/tables/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Tags View Max</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/tags_view/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/tags_view/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Tempdb</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/tempdb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/tempdb/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Capacity</title>
+      <link>https://ejhinde.github.io/spotlightcloud/global/capacity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/global/capacity/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Compare Tool</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/compare_tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/compare_tool/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Disk</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/disk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/disk/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Indexes</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/indexes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/indexes/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Resource Breakdown Max</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/resource_breakdown_max/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/resource_breakdown_max/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Additional Dimensions</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/additional_dimensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/additional_dimensions/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Disks</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/disks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/disks/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>I/O by File</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/iobyfile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/iobyfile/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Network</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/network/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Plan Visualization</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/plan_visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/plan_visualization/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Reports</title>
+      <link>https://ejhinde.github.io/spotlightcloud/global/reports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/global/reports/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/memory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/memory/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Mini Compare</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/mini_compare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/mini_compare/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Properties Max</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/properties_max/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/properties_max/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Plan Analysis</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/plan_analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/plan_analysis/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Performance Instance</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performanceinstance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performanceinstance/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Performance SQL</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancesql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancesql/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>Summary</title>
+      <link>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/summary/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
       <title>header</title>
       <link>https://ejhinde.github.io/spotlightcloud/_header/</link>
       <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
       
       <guid>https://ejhinde.github.io/spotlightcloud/_header/</guid>
-      <description>Spotlight Help</description>
+      <description>Spotlight Cloud Help</description>
+    </item>
+    
+    <item>
+      <title>Connection Manager</title>
+      <link>https://ejhinde.github.io/spotlightcloud/admin/conectmgr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/admin/conectmgr/</guid>
+      <description>Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>On-Premise Configuration Tool</title>
+      <link>https://ejhinde.github.io/spotlightcloud/admin/onpremcfg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejhinde.github.io/spotlightcloud/admin/onpremcfg/</guid>
+      <description>Lorem Ipsum</description>
     </item>
     
   </channel>

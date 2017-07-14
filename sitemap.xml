@@ -3,6 +3,229 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/alarm_details/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/change_tracking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/database/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/database/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/</loc>
+    <lastmod>2017-07-10T16:49:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/heatmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/instance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/alarms/</loc>
+    <lastmod>2017-07-10T16:49:42+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/blocking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/blocking_history/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/cpus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/files/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancehealth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/tempdb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/alarms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/healthcheck/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/jobs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/kpi_max/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/processes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/tables/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/tags_view/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/tempdb/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/capacity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/compare_tool/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/disk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/indexes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/resource_breakdown_max/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/additional_dimensions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/disks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/iobyfile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/network/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/plan_visualization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/global/reports/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/memory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/mini_compare/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/properties_max/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/premium/plan_analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performanceinstance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancesql/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/sqlserver/basic/summary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/</loc>
+    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ejhinde.github.io/spotlightcloud/_header/</loc>
     <lastmod>2017-04-24T18:36:24+02:00</lastmod>
   </url>
@@ -13,8 +236,15 @@
   </url>
   
   <url>
-    <loc>https://ejhinde.github.io/spotlightcloud/</loc>
-    <lastmod>2017-04-24T18:36:24+02:00</lastmod>
+    <loc>https://ejhinde.github.io/spotlightcloud/admin/conectmgr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/admin/onpremcfg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ejhinde.github.io/spotlightcloud/tags/overview/</loc>
     <priority>0</priority>
   </url>
   

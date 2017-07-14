@@ -80,11 +80,8 @@ body {
   margin-right: 1rem !important;
 }
 
-#top-bar {
-  z-index: 1000;
-}
 
-#top-bar.is_stuck {
+#top-bar {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -246,18 +243,9 @@ font-size:smaller;
     font-style: normal;
     font-weight: 200;
 }
-@font-face {
-    font-family: 'Work Sans';
-    font-style: normal;
-    font-weight: 300;
-    src: url("../fonts/Work_Sans_300.eot?#iefix") format("embedded-opentype"), url("../fonts/Work_Sans_300.woff") format("woff"), url("../fonts/Work_Sans_300.woff2") format("woff2"), url("../fonts/Work_Sans_300.svg#WorkSans") format("svg"), url("../fonts/Work_Sans_300.ttf") format("truetype");
-}
-@font-face {
-    font-family: 'Work Sans';
-    font-style: normal;
-    font-weight: 500;
-    src: url("../fonts/Work_Sans_500.eot?#iefix") format("embedded-opentype"), url("../fonts/Work_Sans_500.woff") format("woff"), url("../fonts/Work_Sans_500.woff2") format("woff2"), url("../fonts/Work_Sans_500.svg#WorkSans") format("svg"), url("../fonts/Work_Sans_500.ttf") format("truetype");
-}
+
+@font-face{font-family:"Lato";font-style:normal;font-weight:400;src:local("Lato Regular"),local("Lato-Regular"),url(../fonts/Lato-Regular.ttf) format("truetype")}@font-face{font-family:"Lato";font-style:normal;font-weight:700;src:local("Lato Bold"),local("Lato-Bold"),url(../fonts/Lato-Bold.ttf) format("truetype")}
+
 body {
     background: #fff;
     color: #777;
@@ -303,7 +291,7 @@ b, strong, label, th {
     fill: #fff !important;
 }
 #sidebar {
-    font-weight: 300 !important;
+    /*font-weight: 300 !important;*/
 }
 fieldset {
     border: 1px solid #ddd;
@@ -392,14 +380,18 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     }
 }
 #sidebar {
-    background-color: black;
+    background-color: #2053AB;
     position: fixed;
     top: 0;
     width: 300px;
     bottom: 0;
     left: 0;
-    font-weight: 400;
-    font-size: 15px;
+    
+    font-weight: normal;
+    font-size: 90%;
+    line-height: 27px;
+    -webkit-font-smoothing: antialiased;
+
 }
 #sidebar a {
     color: white;
@@ -487,15 +479,15 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     display: block;
 }
 #sidebar ul.topics > li > a {
-    line-height: 2rem;
-    font-size: 1.1rem;
+    /*line-height: 2rem;
+    font-size: 1.1rem*/;
 }
 #sidebar ul.topics > li > a b {
     opacity: 0.5;
     font-weight: normal;
 }
 #sidebar ul.topics > li > a .fa {
-    margin-top: 9px;
+    /*margin-top: 9px;*/
 }
 #sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
     background: #183f81;
@@ -530,10 +522,10 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     width: calc(100% - 20px);
 }
 #sidebar.showVisitedLinks ul li a span {
-    width: calc(100% - 45px);
+    width: calc(100% - 8px);
 }
 #sidebar ul li > a {
-    padding: 4px 0;
+    padding: 2px 0;
     position: relative;
 }
 #sidebar ul li li {
@@ -570,7 +562,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     border: 1px solid #ccc;
 }
 #body .padding {
-    padding: 1rem 6rem;
+    padding: 1rem 4rem;
 }
 @media only all and (max-width: 59.938em) {
     #body .padding {
@@ -650,7 +642,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     max-width: 80%;
 }
 #chapter h3 {
-    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "Lato", "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     font-weight: 300;
     text-align: center;
 }
@@ -663,7 +655,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     font-size: 1.2rem;
 }
 #footer {
-    padding: 3rem 1rem;
+    padding: 2rem 1rem 0 ;
     color: #b3b3b3;
     font-size: 13px;
 }
@@ -671,13 +663,13 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     margin: 0;
 }
 body {
-    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
-    font-weight: 300;
+    font-family: "Lato", "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: normal;
     line-height: 1.6;
     font-size: 18px !important;
 }
 h2, h3, h4, h5, h6 {
-    font-family: "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "Lato", "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     text-rendering: optimizeLegibility;
     color: #5e5e5e;
     font-weight: 400;
@@ -936,7 +928,7 @@ td {
     z-index: 1000000;
     display: none;
     padding: 5px 8px;
-    font: normal normal 11px/1.5 "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font: normal normal 11px/1.5 "Lato", "Work Sans", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
     color: #fff;
     text-align: center;
     text-decoration: none;
@@ -1037,11 +1029,11 @@ td {
 }
 
 #footer {
-    min-height: 200px;
+    min-height: 3s0px;
 }
 
 .highlightable {
-    padding: 1rem 0 1rem;
+    padding: 0rem 0 0rem;
     overflow: auto;
     position: relative;
     height: 100%;
@@ -1144,6 +1136,10 @@ td {
     text-overflow: ellipsis;
     width: calc(100% - 120px);
 }
+#body #breadcrumbs .links {
+    font-size: 0.8em;
+}
+
 #body #breadcrumbs span.path {
     overflow: hidden;
     white-space: nowrap;
@@ -1241,9 +1237,14 @@ pre .copy-to-clipboard:hover {
 #sidebar ul li.visited > a .read-icon {
     color: #2053AB;
     display: block;
+    font-size: xx-small;
+    position: absolute;
+    float: left;
+    top: 12px;
+    left: -10px;
 }
 #sidebar ul li.visited.active > a .read-icon {
-    right: 40px;
+    left: 7px;
 }
 
 #sidebar ul li .category-icon {
@@ -1252,7 +1253,8 @@ pre .copy-to-clipboard:hover {
     float: right;
     position: absolute;
     right: 0px;
-    margin: 0 !important;
+    margin: 0px !important;
+    padding-left: 20px !important;
     top: 9px;
 }
 

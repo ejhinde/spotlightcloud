@@ -1,10 +1,395 @@
 [
 {
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/alarm_details/",
+	"title": "Alarm Details",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/change_tracking/",
+	"title": "Change Tracking",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/database/",
+	"title": "Database",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/database/",
+	"title": "Database",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/",
+	"title": "Global Pages",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/heatmap/",
+	"title": "Heatmap",
+	"tags": [],
+	"description": "The Heat Map display organizes connections based on the comparative number and severity of alarms raised against them. Connections with the most alarms raised against them are given the most surface area on the heat map. The heatmap refreshes itself automatically when connections are added and removed and when there is a change in the alarm status. Connections are removed from the heat map when monitoring is disabled and while they are in planned outage. The Heat Map answers the question: Which monitored connections require the most urgent attention?",
+	"content": " Open the Heatmap From the Spotlight Client, click {% include inline_imageClient.html file=\u0026ldquo;tb_alarms_heatmap.png\u0026rdquo; alt=\u0026ldquo;Heatmap\u0026rdquo; %} Monitor | Heat Map to open the Heat Map showing all monitored connections.\nTip : You can open the Heatmap with a subset of all monitored connections. From the left [Connections pane][enterprise_connect_display] click on a custom view or connection type. The Heat Map is the default view on the display pane. Connection color and surface area The Heat Map display organizes connections based on the comparative number and severity of alarms raised against them. Connections with the most alarms raised against them are given the most surface area on the heat map. Connections are colored according to the most severe current alarm.\n   Default Color Severity Description     {% include inline_imageClient.html file=\u0026ldquo;icon_alarm_green.png\u0026rdquo; alt=\u0026ldquo;Normal color\u0026rdquo; %} Normal No alarms are raised against this connection.   {% include inline_imageClient.html file=\u0026ldquo;icon_alarm_blue.png\u0026rdquo; alt=\u0026ldquo;Information color\u0026rdquo; %} Information At least one information alarm is raised against this connection. No other alarms are raised.   {% include inline_imageClient.html file=\u0026ldquo;icon_alarm_yellow.png\u0026rdquo; alt=\u0026ldquo;Low color\u0026rdquo; %} Low At least one low severity alarm is raised against this connection. No high or medium severity alarms are raised.   {% include inline_imageClient.html file=\u0026ldquo;icon_alarm_orange.png\u0026rdquo; alt=\u0026ldquo;Medium color\u0026rdquo; %} Medium At least one medium severity alarm is raised against this connection. No high severity alarms are raised.   {% include inline_imageClient.html file=\u0026ldquo;icon_alarm_red.png\u0026rdquo; alt=\u0026ldquo;High color\u0026rdquo; %} High At least one high severity alarm is raised against this connection.    Drilldown on a connection Hover the mouse over a connection  Show the full name of the connection Show the connection type (For example: SQL Server, Windows, Analysis Services, SQL Azure) Show the top 5 alarms currently raised against the connection If there are more than 5 alarms, list the remaining alarm counts of each severity  Click on a connection Open the [Spotlight Overview page][enterprise_display_overview] for the connection\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/instance/",
+	"title": "Instance / Dim",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/overview/",
+	"title": "Overview",
+	"tags": ["overview"],
+	"description": "Overview Page - Windows host of SQL Server",
+	"content": "Overview Page - Windows host of SQL Server\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/overview/",
+	"title": "Overview Page",
+	"tags": ["overview"],
+	"description": "Overview Page - Monitored SQL Server",
+	"content": "Overview Page - Monitored SQL Server\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/alarms/",
+	"title": "Alarms",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/",
+	"title": "Basic License",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/blocking/",
+	"title": "Blocking",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/blocking_history/",
+	"title": "Blocking History",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/cpus/",
+	"title": "CPUs",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/files/",
+	"title": "Files",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/",
+	"title": "Monitoring SQL Server",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancehealth/",
+	"title": "Performance Health",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/",
+	"title": "Premium License",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/",
+	"title": "Professional License",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/services/",
+	"title": "Services",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/tempdb/",
+	"title": "TempDB",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/alarms/",
+	"title": "Alarms",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/healthcheck/",
+	"title": "Health Check",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/jobs/",
+	"title": "Jobs",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/kpi_max/",
+	"title": "KPI MAX",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/processes/",
+	"title": "Processes",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/tables/",
+	"title": "Tables",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/tags_view/",
+	"title": "Tags View Max",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/tempdb/",
+	"title": "Tempdb",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/availability/",
+	"title": "Availability",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/capacity/",
+	"title": "Capacity",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/compare_tool/",
+	"title": "Compare Tool",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/disk/",
+	"title": "Disk",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/indexes/",
+	"title": "Indexes",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/resource_breakdown_max/",
+	"title": "Resource Breakdown Max",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/sessions/",
+	"title": "Sessions",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/additional_dimensions/",
+	"title": "Additional Dimensions",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/disks/",
+	"title": "Disks",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/iobyfile/",
+	"title": "I/O by File",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/network/",
+	"title": "Network",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/plan_visualization/",
+	"title": "Plan Visualization",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/global/reports/",
+	"title": "Reports",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/storage/",
+	"title": "Storage",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/admin/",
+	"title": "Administrator",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/memory/",
+	"title": "Memory",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/mini_compare/",
+	"title": "Mini Compare",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/",
+	"title": "PI",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/pi/properties_max/",
+	"title": "Properties Max",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/professional/windows_operating_system/",
+	"title": "Windows Operating System",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/premium/plan_analysis/",
+	"title": "Plan Analysis",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performanceinstance/",
+	"title": "Performance Instance",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/performancesql/",
+	"title": "Performance SQL",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/sqlserver/basic/summary/",
+	"title": "Summary",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/",
+	"title": "Spotlight Cloud",
+	"tags": [],
+	"description": "",
+	"content": " Input \u0026gt; Translation \u0026gt; Output To produce Spotlight Cloud help, data is input as markdown, taxonomies or datafiles. That data is translated via the Hugo static site generator, GO templating language and docdock theme to output. HTML output is expected for the documentation web site, however there are other output formats like JSON or ICAL. JSON output could possibly be used to provide a more integrated feel between the help and user interface.\nInput Three possibilities of data input into the Spotlight Cloud help.\nMarkdown with TOML frontmatter / metadata Example frontmatter:\n Title Description Draft (the build process can be set to ignore pages still in draft mode) Date Weight (used to establish order in the table of contents)  Tip : Template files can be created with comments to support people creating a new markdown file with frontmatter so they can follow the desired format. Taxonomies Taxonomies operate like keywords or tags.\nFor example, open the overview page, click on the overview tag, this opens a page listing all pages with the \u0026ldquo;overview\u0026rdquo; tag.\nOther examples:\n license type connection type platform  Datafiles Formats: YAML, JSON or TOML\nUse to show / manage a larger dataset. For example, a dataset with a list of alarms and a short description of each alarm \u0026amp; display this list in the help by programmatically looping through the dataset.\nUse to extend markdown frontmatter, additional variables variables etc.\nOutput  Page tree structure, multiple levels. See overview page Search Automatic Next and Previous buttons Actionable, color coded button display Breadcrumbs Text ruse Flowcharts Highlight text, panels Text reuse Color coded: warning, caution, note, tip  "
+},
+{
 	"uri": "https://ejhinde.github.io/spotlightcloud/_header/",
 	"title": "header",
 	"tags": [],
 	"description": "",
-	"content": "Spotlight Help\n"
+	"content": "Spotlight Cloud Help\n"
 },
 {
 	"uri": "https://ejhinde.github.io/spotlightcloud/categories/",
@@ -14,8 +399,22 @@
 	"content": ""
 },
 {
-	"uri": "https://ejhinde.github.io/spotlightcloud/",
-	"title": "My New Hugo Site",
+	"uri": "https://ejhinde.github.io/spotlightcloud/admin/conectmgr/",
+	"title": "Connection Manager",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/admin/onpremcfg/",
+	"title": "On-Premise Configuration Tool",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum\n"
+},
+{
+	"uri": "https://ejhinde.github.io/spotlightcloud/tags/overview/",
+	"title": "Overview",
 	"tags": [],
 	"description": "",
 	"content": ""
